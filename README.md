@@ -28,6 +28,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
     - [Contributing](#contributing)
     - [Code of Conduct](#code-of-conduct)
     - [License](#license)
+  - [AI-Powered Testing Tools (2025)](#ai-powered-testing-tools-2025)
 
 ## General information
 
@@ -124,6 +125,34 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
+
+## AI-Powered Testing Tools (2025)
+
+A curated list of the most relevant and innovative AI-powered software testing tools as of 2025. These tools leverage artificial intelligence for smarter, faster, and more reliable testing across web, mobile, and API platforms.
+
+- **Selenium (AI-Enhanced)** - The classic open-source automation framework now features AI-powered smart locators and self-healing test scripts. [selenium.dev](https://www.selenium.dev/)
+- **Code Intelligence (CI Fuzz)** - AI-driven fuzz testing and vulnerability detection with self-learning test agents. [code-intelligence.com](https://www.code-intelligence.com/)
+- **Functionize** - Cloud-based, low-code test automation with self-healing and NLP test authoring. [functionize.com](https://www.functionize.com/)
+- **Testsigma** - Unified test automation platform with natural language test authoring and AI-powered test suggestions. [testsigma.com](https://testsigma.com/)
+- **Katalon Studio** - All-in-one automation with AI visual testing and smart locators for UI, API, and regression. [katalon.com](https://katalon.com/)
+- **Applitools** - Visual AI platform for automated UI/UX validation and cross-browser/device visual testing. [applitools.com](https://applitools.com/)
+- **Eggplant (Keysight)** - Model-based, AI-driven automation for functional, performance, and UX testing. [keysight.com/us/en/products/software/eggplant.html](https://www.keysight.com/us/en/products/software/eggplant.html)
+- **Digital.ai Continuous Testing** - Cloud-based, AI-powered test optimization and analytics for functional, performance, and accessibility testing. [digital.ai](https://digital.ai/)
+- **TestCraft (Perforce)** - Codeless Selenium automation with AI/ML-based test maintenance. [perforce.com/products/testcraft](https://www.perforce.com/products/testcraft)
+- **Testim (Tricentis)** - AI-powered test automation with smart locators and self-healing for UI and regression. [tricentis.com/products/testim](https://www.tricentis.com/products/testim)
+- **mabl** - Low-code, AI test automation with self-healing and integrated performance/load testing. [mabl.com](https://www.mabl.com/)
+- **Watir** - Ruby-based web automation with smart element handling and cross-browser support. [watir.com](https://watir.com/)
+- **Sauce Labs** - Cloud-based automation with AI-powered low-code authoring and analytics. [saucelabs.com](https://saucelabs.com/)
+- **Tricentis** - Enterprise suite with AI-driven risk-based testing, self-healing, and smart analytics. [tricentis.com](https://www.tricentis.com/)
+- **SmartBear VisualTest** - Visual AI test automation for UI/UX validation and ML-based change detection. [smartbear.com](https://smartbear.com/)
+- **ACCELQ** - Cloud-based, codeless automation with AI-powered self-healing and NLP test authoring. [accelq.com](https://www.accelq.com/)
+- **Parasoft** - Continuous quality platform with AI-powered test generation, analytics, and coverage. [parasoft.com](https://www.parasoft.com/)
+- **TestRigor** - User-centric, codeless automation with natural language test authoring and stable element recognition. [testrigor.com](https://testrigor.com/)
+- **Testers.ai** - AI agent-based web testing with autonomous test generation, execution, and reporting. [testers.ai](https://testers.ai/)
+- **Verex** - AI-powered QA automation with natural language test authoring, bug triage, and visual debugging. [verex.ai](https://verex.ai/)
+- **Autify** - No-code, AI-powered automation for web and mobile with GenAI test case/code generation and self-healing. [autify.com](https://autify.com/)
+
+*This list is updated for 2025. If you know of a new or emerging AI-powered testing tool, please contribute!*
 
 ## Blog posts  (a-z↓)
 
